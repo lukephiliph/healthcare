@@ -1,5 +1,5 @@
 ## installation
-### clone repository 
+### clone repository 'https://github.com/lukephiliph/healthcare.git'
 ### move to the healthcare folder by 'cd healthcare'
 ### 'npm install' to install node modules
 ## starting
